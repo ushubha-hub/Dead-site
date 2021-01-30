@@ -21,6 +21,6 @@ Usage of Dead site for attacking targets without prior mutual consent is illegal
 ### Usage:
 ```
 git clone https://github.com/ushubha-hub/Dead-site.git
-cd Dead site
+cd Dead-site
 bash Dead site.sh
 ```
